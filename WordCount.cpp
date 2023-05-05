@@ -12,7 +12,7 @@ int main(int acount, char* a[])
         printf("文件读取有误或文件内容为空!\n");
         return 0;
     }
-
+// 111
     if (a[1][1] == 'w')
     {
         char s[Len];
